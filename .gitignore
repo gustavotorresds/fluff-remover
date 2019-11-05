@@ -1,0 +1,7 @@
+data/
+env/
+finished_files/
+pretrained_model/
+no_split/
+with_split/
+output/
