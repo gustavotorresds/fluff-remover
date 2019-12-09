@@ -1,5 +1,11 @@
 # Fluff Remover
 
+Note: the README bellow is not fully updated. Coming soon :)
+A few updated notes though:
+- our preprocessed dataset can be found [here](https://drive.google.com/open?id=1gjlFUE8cVFyRTJ0g6YkLcgHqkT4UH6lV)
+- the dataset processed for pointer-generator to consume can be found [here](https://drive.google.com/open?id=1H0zz1P5OUmUGLfc7_XLFbIj8aP3ycYoP)
+- this repo corresponds to the code written for our paper, *Cutting Down “Fluff”A Twist on Text Summarization*.
+
 ## Context
 Many people struggle with cutting down text for an essay for a class, for a job application and for many other purposes. Writing concisely is hard. We want to create a model that, given a textual input, outputs a more concise version of that text. Our idea is to do a twist on the text summarization problem. The topic we are exploring is different from text summarization because it does not return the “main idea” of the input passage, but the concise version of it, keeping all its original ideas intact. We chose this problem due to its novelty and the potential impact it can have.
 
