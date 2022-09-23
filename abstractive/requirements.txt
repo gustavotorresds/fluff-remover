@@ -12,7 +12,7 @@ mock==3.0.5
 modulegraph==0.10.4
 numpy==1.16.5
 pbr==5.4.3
-protobuf==3.10.0
+protobuf==3.18.3
 py2app==0.7.3
 pyobjc-core==2.5.1
 pyobjc-framework-Accounts==2.5.1
